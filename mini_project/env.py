@@ -29,6 +29,7 @@ DEFAULT_CONFIG = {
     "crash_vehicle_cost": 1.0,
     "crash_object_cost": 1.0,
     "out_of_road_cost": 1.0,
+    "horizon": 1000,
 }
 
 # Use deepcopy to avoid modifying the DEFAULT_CONFIG

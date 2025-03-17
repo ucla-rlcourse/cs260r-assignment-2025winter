@@ -78,6 +78,7 @@ Your submission must contain:
     - Place your agent in a subfolder under `agents/`.
     - Zip this subfolder, so that after unzip we get a FOLDER instead of files.
     - DO NOT SUBMIT THE AGENTS IN GENERALIZATION EXPERIMENTS.
+    - upload it to bruinlearn assignment submission box with name "agent zip file".
 
 2. **A PDF Report**
     - Include your **name and UID**.
@@ -86,7 +87,7 @@ Your submission must contain:
     - **Submit this PDF inside your agent folder AND upload it to Gradescope.**
 
 3. **Your training code and logs (if any)** (The code zip file)
-    - Zip the whole mini project folder, include all your code and logs and upload it to bruinlearn.
+    - Zip the whole mini project folder, include all your code and logs and upload it to bruinlearn assignment submission box with name "code zip file".
 
 ## **Steps to Complete the Assignment**
 

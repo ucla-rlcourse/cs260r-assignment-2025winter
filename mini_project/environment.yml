@@ -1,0 +1,15 @@
+name: cs260r_miniproject
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+    - torch
+    - mediapy
+    - numpy
+    - scipy
+    - tqdm
+    - pandas
+    - "gymnasium<1.0.0"
+    - "git+https://github.com/metadriverse/metadrive.git"

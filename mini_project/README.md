@@ -172,3 +172,17 @@ harder.
       experimenting different setup.
 
 5. The maximum scores you can get is 150%.
+
+
+## Local Verification
+
+You can run the following command to verify your agent locally:
+
+```bash
+# Install the required packages
+conda env create -f environment.yml
+
+conda activate cs260r_miniproject
+
+python eval.py --agent-name agent_YOUR-UID
+```

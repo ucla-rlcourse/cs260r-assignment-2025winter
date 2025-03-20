@@ -86,7 +86,7 @@ Your submission must contain:
     - **Submit this PDF inside your agent folder AND upload it to Gradescope.**
 
 3. **Your training code and logs (if any)** (The code zip file)
-    - Zip the whole mini project folder, include all your code and logs and upload it to bruinlearn assignment submission box with name "code zip file".
+    - Zip the whole mini project folder, include all your code and logs and upload it to bruinlearn.
 
 ## **Steps to Complete the Assignment**
 

@@ -11,5 +11,6 @@ dependencies:
     - scipy
     - tqdm
     - pandas
+    - pyyaml
     - "gymnasium<1.0.0"
     - "git+https://github.com/metadriverse/metadrive.git"

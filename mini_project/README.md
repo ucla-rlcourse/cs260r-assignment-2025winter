@@ -77,7 +77,6 @@ Your submission must contain:
 1. **Your trained RL agent** (The agent zip file)
     - Place your agent in a subfolder under `agents/`.
     - Zip this subfolder, so that after unzip we get a FOLDER instead of files.
-    - DO NOT SUBMIT THE AGENTS IN GENERALIZATION EXPERIMENTS.
     - upload it to bruinlearn assignment submission box with name "agent zip file".
 
 2. **A PDF Report**
